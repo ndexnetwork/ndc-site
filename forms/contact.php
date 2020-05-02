@@ -7,7 +7,7 @@
   */
 
   // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'xdaairdrops@gmail.com';
+  $receiving_email_address = 'info@ndexnetwork.com';
 
   if( file_exists($php_email_form = '../forms/contact.php' )) {
     include( $php_email_form );
